@@ -33,16 +33,17 @@ const filterByCategories: CollectionEntry<"posts">[] = taxonomyFilter(
 <Base title={category}>
   <div class="section">
     <div class="container">
-      <h1 class="h2 mb-12">
+      
+      <h1 class="!text-xl font-bold mb-12">
         Showing posts from
         <span class="section-title ml-1 inline-block capitalize">
           {slugify(category!)}
         </span>
       </h1>
+      
       <div class="row">
         <div class="lg:col-8">
-          <div
-            class="row rounded border border-border dark:border-darkmode-border py-6">
+          <div class="row rounded border border-border dark:border-darkmode-border py-6">
             {
               filterByCategories.map((post) => (
                 <div class="col-12 mb-8 sm:col-6">

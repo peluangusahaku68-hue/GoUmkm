@@ -39,7 +39,7 @@
     },
     {
       "name": "featured",
-      "label": "Featured",
+      "label": "Pilihan",
       "type": "boolean",
       "value": false,
       "defaultValue": ""

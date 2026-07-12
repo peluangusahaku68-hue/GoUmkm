@@ -1,21 +1,21 @@
 ---
-title: "Let’s, Talk </br> About You"
-description: "meta description"
+title: "Berikan Idemu Tentang Digitalisasi UMKM"
+description: "Kami menerima artikel yang berisi ide/gagasan kamu tentang digitalisasi UMKM"
 meta_title: ""
-phone: "+211234565523"
-mail: "info@email.com"
-location: "9567 Turner Trace Apt. BC C3G8A4"
+phone: ""
+mail: "peluangusahaku68@gmail.com"
+location: "Klidon, Sleman, Yogyakarta"
 form_action: "#"
 social_links:
   - icon: FaUser
-    content: "+211234565523"
+    content: ""
     link: tel:+211234565523
   - icon: FaEnvelope
-    content: info@email.com
-    link: mailto:info@gmail.com
+    content: peluangusahaku68@gmail.com
+    link: mailto:peluangusahaku68@gmail.com
   - icon: FaLocationDot
-    content: 9567 Turner Trace Apt. BC C3G8A4
-    link: https://maps.app.goo.gl/GUU64bJCQtiSRxGx9
+    content: Klidon, Sleman, Yogyakarta
+    link: https://maps.app.goo.gl/peuSWZA6qg6hEnfY6
 
 draft: false
 ---

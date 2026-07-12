@@ -1,19 +1,19 @@
 ---
 banner:
-  title: Welcome **!**
-  title_small: "to John Bravo's Blog"
-  content: Are Developer and recently started your own business Already made website to ensure presence wants to develop.
+  title: UMKM Go **Digital**
+  title_small: ""
+  content: Berbagi ide dan gagasan untuk membuat UMKM Indonesia mendunia melalui transformasi digital.
   image_enable: true
-  image: /images/banner-author.png
+  image: /images/online-business.png
   button:
     enable: true
-    label: Know About Me
+    label: Tentang Kami
     link: /about
     rel: ""
 
 featured_posts:
   enable: true
-  title: Featured Posts
+  title: Artikel Pilihan
 
 promotion:
   enable: true
@@ -21,6 +21,6 @@ promotion:
   link: "/contact"
 
 recent_posts:
-  title: Recent Posts
+  title: Artikel Terbaru
   enable: true
 ---

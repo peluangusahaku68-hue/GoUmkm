@@ -1,24 +1,24 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Beranda",
       "url": "/"
     },
     {
-      "name": "Posts",
+      "name": "Artikel",
       "url": "/posts"
     },
     {
-      "name": "About",
+      "name": "Tentang",
       "url": "/about"
     },
 
     {
-      "name": "Contact",
+      "name": "Kontak",
       "url": "/contact"
     },
     {
-      "name": "Pages",
+      "name": "",
       "url": "",
       "hasChildren": true,
       "children": [
@@ -35,15 +35,15 @@
   ],
   "footer": [
     {
-      "name": "Home",
+      "name": "Beranda",
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Tentang",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Kontak",
       "url": "/contact"
     },
     {
