@@ -1,5 +1,5 @@
 ---
-title: "Google Business Profile: Cara Muncul di Google Maps Suypaya Kebanjiran Pelanggan Lokal"
+title: "Google Business Profile: Cara Muncul di Google Maps Supaya Kebanjiran Pelanggan Lokal"
 date: 2026-04-04T06:00:00Z
 image: /images/local-seo.jpg
 categories: ["UMKM", "SEO"]
@@ -70,7 +70,7 @@ Aktifkan pesan langsung di Google Maps. Gunakan fitur **Updates** untuk membagik
 
 ## Panduan Langkah Sederhana Mendaftarkan Tokomu ke Google Maps
 
-Proses pendaftaran sangat mudah dan bisa dilakukan lewat handphone atau laptop. (Panduan langkah demi langkah akan dijelaskan lebih detail di artikel terpisah).
+Proses pendaftaran sangat mudah dan bisa dilakukan lewat handphone atau laptop. Meskipun demikian, ada kalanya pebisnis mengalami kendala dalam proses pendaftaranya, seperti pending, bahkan unnaproved. Inilah alasan bahwa pebisnis harus secara proaktif [mencari informasi mengenai kendala-kendala tersebut](/posts/google-business-profile-pending), baik dari informasi resmi google maupun pengguna lain.
 
 > **Ingat:** Google Business Profile bukan sekali daftar lalu dilupakan. Bisnis yang sukses di Maps adalah bisnis yang profilnya aktif, jam buka akurat, dan rutin berinteraksi dengan pelanggan.
 
