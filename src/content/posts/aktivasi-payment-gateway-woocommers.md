@@ -15,12 +15,12 @@ Berikut adalah catatan pengalaman dan pelajaran penting selama mengintegrasikan 
 
 ## 1. Persiapan Awal yang Matang: Kunci Lolos Verifikasi
 
-Berdasarkan pengalaman sebagai [web developer](https://bikinwebjogja.id/), yang sering menghadapi proses pendaftaran payment gateway, ada beberapa hal penting yang sebaiknya disiapkan jauh-jauh hari sebelum mendaftar. Ketahuilah bahwa tim verifikasi payment gateway sangat ketat dalam memeriksa keabsahan bisnis.
+Berdasarkan pengalaman sebagai [web developer](https://bikinwebjogja.id/t ini), yang sering menghadapi proses pendaftaran payment gateway, ada beberapa hal penting yang sebaiknya disiapkan jauh-jauh hari sebelum mendaftar. Ketahuilah bahwa tim verifikasi payment gateway sangat ketat dalam memeriksa keabsahan bisnis.
 
 Sebaiknya, pastikan hal-hal berikut sudah siap sepenuhnya:
 
 - **Website yang Sudah Operasional**  
-  Jangan mendaftarkan akun live menggunakan website yang masih kosong (*under construction*), placeholder, atau berisi artikel Lorem Ipsum. Pastikan halaman produk sudah terisi, halaman syarat ketentuan (*Terms & Conditions*), kebijakan privasi (*Privacy Policy*), serta informasi kontak sudah lengkap terpampang. Satu lagi, beberapa dari mereka tidak suka website dengan copyright dan sejenisnya, kecuali untuk website untuk usaha yang sudah memilikui legalitas seperti PT. Adapun alasanya, saya sendiri sampai sekarang masih belum mengerti.
+  Jangan mendaftarkan akun live menggunakan website yang masih kosong (*under construction*), placeholder, atau berisi artikel Lorem Ipsum. Pastikan halaman produk sudah terisi, halaman syarat ketentuan (*Terms & Conditions*), kebijakan privasi (*Privacy Policy*), serta informasi kontak sudah lengkap terpampang. Satu lagi, beberapa dari mereka tidak suka website dengan copyright dan sejenisnya di bagian footer, kecuali untuk website usaha yang sudah berbadan hukum seperti PT/CV/atau UD. Adapun alasanya, saya sendiri sampai sekarang masih belum mengerti.
 
 - **Foto Tempat Usaha & Legalitas**  
   Siapkan foto tampak depan tempat usaha atau kantor operasional, lengkap dengan papan nama atau plang toko. Sediakan juga dokumen legalitas (KTP pemilik, NPWP badan usaha/perorangan, buku rekening, hingga akta perusahaan jika ada) dengan kualitas foto yang tajam dan tidak buram.
