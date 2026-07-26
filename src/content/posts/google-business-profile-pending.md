@@ -15,9 +15,9 @@ Itulah yang dialami salah satu klien kami.
 
 Masalahnya, Google memang tidak pernah menjelaskan secara rinci mengapa sebuah Google Business Profile disetujui, ditolak, atau membutuhkan waktu lama untuk aktif. Karena itulah, kami mencoba melihat permasalahan ini dari sudut pandang yang berbeda.
 
-Alih-alih hanya berfokus pada Google Business Profile, kami mulai memperkuat identitas digital bisnis tersebut secara menyeluruh.
+Kami pun mencoba melakukan sejumlah langkah, yaitu mendaftar email Google baru untuk membuat akun Google, membeli domain dan akun email profesional (user@namadomain.com) untuk pendaftaran akun Google Map/Google Business Profile baru. 
 
-Yang terjadi setelah itu cukup menarik. Beberapa waktu kemudian, Google justru mengaktifkan kembali profil lama milik klien yang sebelumnya terus berstatus **pending**.
+Yang terjadi setelah itu cukup menarik. Beberapa waktu kemudian, Google justru mengaktifkan kembali profil lama milik klien yang sebelumnya terus berstatus **pending**. Akun Google Map/Google Business Profile yang selama ini telah membuatnya frustrasi. 
 
 Apakah langkah-langkah yang kami lakukan menjadi penyebabnya? Kami tentu tidak bisa memastikannya. Namun, pengalaman ini memberikan beberapa pelajaran yang menurut kami layak untuk dibagikan.
 
@@ -39,7 +39,11 @@ Ada tiga langkah yang kami lakukan.
 
 ### 1. Menggunakan Email Bisnis
 
-Kami membuat alamat email menggunakan nama domain bisnis sehingga identitas usaha terlihat lebih profesional dibandingkan menggunakan email pribadi.
+Membuat email Google baru, untuk membuat akun Google Map/ Google Business Profile baru. Pada saat itu, kami berfikir bahwa akun lama milik klien kami sudah di banned oleh Google, sehingga tak mungkin bisa digunakan lagi untuk registrasi Google Map/ Google Business Profile. oleh karena itulah, kami mencoba menggunakan email baru untuk membuat akun baru.
+
+### 2. Menggunakan Email Bisnis
+
+Untuk proses pendaftaran Google Map/ Google Business Profile baru, kami tidak menggunakan email gratis, namun kami membuat alamat email menggunakan nama domain bisnis sehingga identitas usaha terlihat lebih profesional dibandingkan menggunakan email pribadi. 
 
 ### 2. Membuat Website Profil Sederhana
 
@@ -47,19 +51,13 @@ Kami membuat website sederhana yang berisi profil usaha, layanan, alamat, serta 
 
 ### 3. Mencoba Mengajukan Kembali
 
-Setelah semua informasi bisnis dirapikan, kami mencoba membuat pengajuan baru menggunakan data yang sama.
-
-Tujuannya bukan untuk membuat dua profil bisnis, tetapi untuk mencari tahu apakah masih ada kendala yang menyebabkan profil lama belum juga aktif.
+Setelah semua informasi bisnis dirapikan, kami mencoba membuat pengajuan baru menggunakan akun gmail baru tersebut.
 
 ---
 
 ## Hasil yang Tidak Kami Duga
 
-Yang terjadi ternyata cukup mengejutkan.
-
-Google tidak mengaktifkan profil yang baru kami buat.
-
-Sebaliknya, beberapa waktu kemudian Google justru mengaktifkan profil lama milik klien yang selama ini terus berstatus **pending**.
+Yang terjadi ternyata cukup mengejutkan. Google tidak langsung mengaktifkan profil yang baru kami buat.Sebaliknya, beberapa waktu kemudian Google justru mengaktifkan profil lama milik klien yang selama ini terus berstatus **pending**. Di di admin dashboard Google memperingatkan adanya duplikasi, yaitu antara akun lama milik klien kami yang sudah lama pending dengan akun yang baru kami buat. Google juga memberikan pilihan akun mana yang akan diaktifkan. Akhirnya kami memilih memngaktifkan akun lama milik klien kami tersebut. 
 
 Kami tidak dapat memastikan apakah kedua kejadian tersebut saling berkaitan. Namun, berdasarkan urutan peristiwa yang kami alami, ada kemungkinan proses tersebut membuat Google kembali meninjau profil bisnis yang sebelumnya sudah ada.
 
@@ -67,9 +65,7 @@ Kami tidak dapat memastikan apakah kedua kejadian tersebut saling berkaitan. Nam
 
 ## Setelah Profil Berhasil Aktif
 
-Begitu profil lama berhasil aktif, kami tidak menggunakan profil baru.
-
-Kami tetap menggunakan akun lama sebagai akun utama karena memang itulah akun resmi milik klien.
+Begitu profil lama berhasil aktif, kami tidak menggunakan profil baru. Kami tetap menggunakan akun lama sebagai akun utama karena memang itulah akun resmi milik klien.
 
 Sementara akun yang baru kami buat hanya dijadikan sebagai **admin tambahan**. Langkah ini dilakukan agar apabila suatu saat pemilik bisnis mengalami kendala akses, masih ada akun lain yang dapat membantu mengelola Google Business Profile tersebut.
 
