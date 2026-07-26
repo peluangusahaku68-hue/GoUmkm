@@ -1,6 +1,6 @@
 ---
 title: "Pengalaman Integrasi Payment Gateway di WooCommerce: Antara Kemudahan dan Tantangan"
-date: 2026-04-04T05:00:00Z
+date: 2026-04-26T05:00:00Z
 image: /images/paymen-gateway-tantangan-instalasi.webp
 categories: ["UMKM", "Payment-Gateway"]
 featured: true
