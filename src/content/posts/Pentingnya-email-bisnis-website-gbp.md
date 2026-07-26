@@ -2,7 +2,7 @@
 title: "Pentingnya Email Bisnis dan Website untuk Google Business Profile (GBP)"
 date: 2026-07-26T05:00:00Z
 image: /images/ChatGPT Image Jul 26, 2026, 09_07_00 AM.webp
-categories: ["UMKM", "AI"]
+categories: ["UMKM", "Google Business Profile"]
 featured: true
 draft: false
 ---

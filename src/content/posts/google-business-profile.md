@@ -2,7 +2,7 @@
 title: "Google Business Profile: Cara Muncul di Google Maps Supaya Kebanjiran Pelanggan Lokal"
 date: 2026-04-04T06:00:00Z
 image: /images/local-seo.jpg
-categories: ["UMKM", "SEO"]
+categories: ["UMKM", "SEO", "Google Business Profile"]
 featured: true
 draft: false
 ---
