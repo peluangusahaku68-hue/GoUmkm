@@ -7,8 +7,6 @@ featured: true
 draft: false
 ---
 
-## 
-
 Kolom ulasan (*review*) di [Google Business Profile](/posts/google-business-profile) (GBP) adalah etalase publik yang sangat menentukan reputasi bisnis Anda. Mendapat ulasan bintang lima tentu menjadi dambaan setiap pemilik usaha. Namun, menerima ulasan negatif adalah risiko operasional yang pasti akan dihadapi oleh bisnis apa pun yang berjalan di dunia nyata.
 
 Menghadapi kritik tidak boleh dilakukan secara emosional. Sebagai pemilik bisnis, Anda perlu memilah dan memahami bahwa tidak semua ulasan negatif diciptakan sama. Ada kalanya ulasan tersebut murni masukan membangun, namun tidak sedikit pula yang diisi oleh individu berkarakter "nyinyir" atau bahkan melontarkan tuduhan palsu (misalnya menuduh kembalian dikurangi, salah hitung disengaja, atau kecurangan kasir) padahal hal tersebut tidak pernah terjadi.
